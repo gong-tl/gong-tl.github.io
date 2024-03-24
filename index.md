@@ -12,7 +12,7 @@ I am open to exploring any potential collaboration opportunities. Please let me 
 
 ## Research
 ---
-My research interests mainly include machine learning theory and information theory. My goal is to develop foundational theory that guides the design of computationally efficient machine learning algorithms that do not cause degeneration.  Recently,  my research revolves around some critical challenges in big data analysis within the information theoretical learning framework, including but not limited to conducting generalization analysis for deep learning algorithms,  developing novel information theoretical measures, fast approximation algorithms and corresponding statistical guarantees. Besides, I am also interested in exploring its potential applications in AI for science. 
+My research interests mainly include machine learning theory and information theory. My goal is to develop the foundational theory that guides the design of computationally efficient machine learning algorithms that do not cause degeneration.  Recently,  my research revolves around some critical challenges in big data analysis within the information theoretical learning framework, including but not limited to conducting generalization analysis for deep learning algorithms,  developing novel information theoretical measures, fast approximation algorithms and corresponding statistical guarantees. Besides, I am also interested in exploring its potential applications in AI for science. 
 
 # Recruiting
 ---
@@ -33,3 +33,6 @@ I am looking for highly motivated and self-driven students, who are interested i
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+---
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=7oTAAEkA40qGB0fXnZnoEfhq7fxO1EaO6PgFitbwp4w&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
