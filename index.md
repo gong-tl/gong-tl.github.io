@@ -26,8 +26,8 @@ I am looking for highly motivated and self-driven students, who are interested i
 ## News
 
 - **[Feb. 2024]** Our paper about pairwise learning is accepted to ICLR 2024.
-- **[Sept.2024]** Our paper about Multi-instance learning is accepted to CVPR 2024.
-- **[Aug. 2023]** I will be Area Chair of the IJCAI 2023 in MACAO!
+- **[Sept.2024]** Our paper about multi-instance learning is accepted to CVPR 2024.
+- **[Aug. 2023]** I will be the Machine Learning Session Chair of the  IJCAI 2023 in MACAO!
 
 
 {% include_relative _includes/publications.md %}
