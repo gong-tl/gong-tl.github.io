@@ -18,10 +18,10 @@ My research interests mainly include machine learning theory and information the
 ---
 I am looking for highly motivated and self-driven students, who are interested in
 
-- ** Robust/Explainable machine learning, especially on coreset selection, subsampling, random sketching and kernel methods etc.
-- ** Generalization of DNNs, aims to open the black-box of deep learning. Theoretical investigation including complexity analysis, stability analysis, SGD/SGLD analysis etc. 
-- ** Transfer learning, including out-of-distribution generalization/Detection based on information theoretical learning framework.
-- ** AI for Medical, especially on pathology image analysis, drug recommendation and related topics on XAI for Medical
+-  Robust/Explainable machine learning, especially on coreset selection, subsampling, random sketching and kernel methods etc.
+- Generalization of DNNs, aims to open the black-box of deep learning. Theoretical investigation including complexity analysis, stability analysis, SGD/SGLD analysis etc. 
+- Transfer learning, including out-of-distribution generalization/Detection based on information theoretical learning framework.
+-  AI for Medical, especially on pathology image analysis, drug recommendation and related topics on XAI for Medical
 
 ## News
 
