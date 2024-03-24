@@ -19,7 +19,7 @@
     <li><a ><autocolor>IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</autocolor></a></li>
       <li><a ><autocolor>IEEE Transactions on Cybernetics (IEEE TCB)</autocolor></a></li>
       <li><a ><autocolor>IEEE Transactions on Medical Imaging (IEEE TMI)</autocolor></a></li>
-    <li><a "><autocolor>IEEE Journal of Biomedical and Health Informatics  (IEEE JBHI)</autocolor></a></li>
+    <li><a ><autocolor>IEEE Journal of Biomedical and Health Informatics  (IEEE JBHI)</autocolor></a></li>
   <li><a ><autocolor>Neural Computation </autocolor></a></li>
     <li><a ><autocolor>Information Science </autocolor></a></li>
    <li><a ><autocolor>Expert Systems with Applications </autocolor></a></li>
