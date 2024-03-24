@@ -4,11 +4,11 @@ main:
     authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Chen Li (*Corresponding authors)
     conference_short: ICLR
     conference: International Conference on Learning Representation <strong>(MICCAI)</strong>, 2023.
-    pdf: 
-    code: 
-    bibtex: 
-    image: 
-    notes: 
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
 
 
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
