@@ -84,7 +84,7 @@ main:
     pdf: 
     code: 
     bibtex: 
-    image: ./assets/img/AAAI23_fast.png
+    image: 
     notes: 
 
   - title: "Understanding the Generalization Ability of Deep Learning Algorithms: A Kernelized Renyi's Entropy Perspective"
