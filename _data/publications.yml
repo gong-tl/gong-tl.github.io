@@ -2,23 +2,15 @@ main:
   
   - title: "Rethinking Information-Theoretical Generalization: Loss entropy induced PAC Bounds"
     authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Chen Li (*Corresponding authors)
-    conference_short: ICLR
+    conference_short:
     conference: International Conference on Learning Representation <strong>(ICLR)</strong>, 2024.
-    pdf: 
-    code: 
-    bibtex: 
-    image: 
-    notes: 
+
 
   - title: "ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification"
     authors: Jiangbo Shi, Chen Li, <strong>Tieliang Gong*</strong>, Huazhu Fu 
-    conference_short: CVPR
+    conference_short:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
-    pdf: 
-    code: 
-    bibtex: 
-    image: 
-    notes: 
+
 
   - title: "Learning Guarantees for Non-convex Pairwise SGD with Heavy Tails"
     authors: Jun Chen, <strong>Hong Chen*</strong>, Bin Gu, Tieliang Gong, WeiFu Li 
@@ -33,7 +25,7 @@ main:
   - title: "Optimal Randomized Approximations for Matrix-based Renyi's Entropy"
     authors: Yuxin Dong,  <strong>Tieliang Gong*</strong>, Shujian Yu, Chen Li
     conference_short: IEEE TIT
-    conference: IEEE Transactions on Information Theory <strong>(IEEE TIT)</strong>, 2023.
+    conference: IEEE Transactions on Information Theory, 2023.
     pdf: 
     code: 
     bibtex: 
