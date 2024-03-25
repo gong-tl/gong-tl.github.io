@@ -99,25 +99,8 @@ main:
     image: ./assets/img/ACL23.png
     notes: 
 
-  - title: "PRAM: An End-to-end Prototype-based Representation Alignment Model for Zero-resource Cross-lingual Named Entity Recognition"
-    authors: Yucheng Huang, Wenqiang Liu, Xianli Zhang, Jun Lang, Tieliang Gong, Chen Li
-    conference_short: ACL
-    conference: Annual Meeting of the Association for Computational Linguistics, 2023.
-    pdf: 
-    code: 
-    bibtex: 
-    image: ./assets/img/ACL23.png
-    notes: 
 
- - title: "PRAM: An End-to-end Prototype-based Representation Alignment Model for Zero-resource Cross-lingual Named Entity Recognition"
-    authors: Yucheng Huang, Wenqiang Liu, Xianli Zhang, Jun Lang, Tieliang Gong, Chen Li
-    conference_short: ACL
-    conference: Annual Meeting of the Association for Computational Linguistics, 2023.
-    pdf: 
-    code: 
-    bibtex: 
-    image: ./assets/img/ACL23.png
-    notes: 
+
   #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     #conference_short: CVPR
