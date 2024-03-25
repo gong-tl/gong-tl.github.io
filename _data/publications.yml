@@ -66,7 +66,7 @@ main:
     image: ./assets/img/AAAI23_fast.png
     notes: 
 
-    - title: "Understanding the Generalization Ability of Deep Learning Algorithms: A Kernelized Renyi's Entropy Perspective"
+  - title: "Understanding the Generalization Ability of Deep Learning Algorithms: A Kernelized Renyi's Entropy Perspective"
     authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Chen Li
     conference_short: IJCAI
     conference: International Joint Conference on Artificial Intelligence, 2023.
@@ -77,7 +77,7 @@ main:
     notes: 
 
 
-    - title: "PRAM: An End-to-end Prototype-based Representation Alignment Model for Zero-resource Cross-lingual Named Entity Recognition"
+  - title: "PRAM: An End-to-end Prototype-based Representation Alignment Model for Zero-resource Cross-lingual Named Entity Recognition"
     authors: Yucheng Huang, Wenqiang Liu, Xianli Zhang, Jun Lang, Tieliang Gong, Chen Li
     conference_short: ACL
     conference: Annual Meeting of the Association for Computational Linguistics, 2023.
