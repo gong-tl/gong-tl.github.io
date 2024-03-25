@@ -28,7 +28,7 @@ main:
 
   - title: "Markov Subsampling Based on Huber Criterion"
     authors: <strong>Tieliang Gong*</strong>, Yuxin Dong, Hong Chen, Bo Dong, Chen Li 
-    conference_short: TNNLS
+    conference_short: IEEE TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems, 2024.
     pdf: 
     code: 
@@ -56,10 +56,31 @@ main:
     image: ./assets/img/TSP23.png
     notes: 
 
+    
+ - title: "Tilted Sparse Additive Models"
+    authors: Yingjie Wang, Hong Chen, Weifeng Liu, Tieliang Gong, Youcheng Fu, Dacheng Tao
+    conference_short: ICML
+    conference: International Conference on Machine Learning, 2023.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/ICML23_tiled.png
+    notes: 
+    
   - title: "Robust and Fast Measure of Information via Low-rank Representation"
     authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Shujian Yu, Hong Chen, Chen Li
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence, 2023.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/AAAI23_fast.png
+    notes: 
+
+  - title: "Template-free prompting for few-shot named entity recognition via Semantic-Enhanced Contrastive Learning"
+    authors: Kai He, Rui Mao, Yucheng Huang, Tieliang Gong, Chen Li, Erik Cambria
+    conference_short: IEEE TNNLS
+    conference: IEEE Transactions on Neural Networks and Learning Systems, 2023.
     pdf: 
     code: 
     bibtex: 
@@ -76,6 +97,15 @@ main:
     image: ./assets/img/IJCAI23_understanding.png
     notes: 
 
+ - title: "Dual Attention and Patient Similarity Network for Drug Recommendation"
+    authors: Jialun Wu, Yuxin Dong, Zeyu Gao, Tieliang Gong, Chen Li 
+    conference_short: BioInfo
+    conference: Bioinformatics, 2023.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/BioInfo23.png
+    notes: 
 
   - title: "PRAM: An End-to-end Prototype-based Representation Alignment Model for Zero-resource Cross-lingual Named Entity Recognition"
     authors: Yucheng Huang, Wenqiang Liu, Xianli Zhang, Jun Lang, Tieliang Gong, Chen Li
