@@ -1,6 +1,6 @@
 main:
   
-  - title: "Continual Learning for Abdominal Multi-Organ and Tumor Segmentation"
+  - title: "Rethinking Information-Theoretical Generalization: Loss entropy induced PAC Bounds"
     authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Chen Li (*Corresponding authors)
     conference_short: ICLR
     conference: International Conference on Learning Representation <strong>(ICLR)</strong>, 2024.
@@ -10,17 +10,35 @@ main:
     image: 
     notes: 
 
-   
+  - title: "ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification"
+    authors: Jiangbo Shi, Chen Li, <strong>Tieliang Gong*</strong>, Huazhu Fu 
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    pdf: 
+    code: 
+    bibtex: 
+    image: 
+    notes: 
 
-  - title: "Continual Learning for Abdominal Multi-Organ and Tumor Segmentation"
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Learning Guarantees for Non-convex Pairwise SGD with Heavy Tails"
+    authors: Jun Chen, <strong>Hong Chen*</strong>, Bin Gu, Tieliang Gong, WeiFu Li 
+    conference_short: ICLR
+    conference: International Conference on Learning Representation <strong>(ICLR)</strong>, 2024.
+    pdf: 
+    code: 
+    bibtex: 
+    image: 
+    notes: 
+
+  - title: "Optimal Randomized Approximations for Matrix-based Renyi's Entropy"
+    authors: Yuxin Dong,  <strong>Tieliang Gong*</strong>, Shujian Yu, Chen Li
+    conference_short: IEEE TIT
+    conference: IEEE Transactions on Information Theory <strong>(IEEE TIT)</strong>, 2023.
+    pdf: 
+    code: 
+    bibtex: 
+    image: 
+    notes: 
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
