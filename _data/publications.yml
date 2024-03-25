@@ -14,7 +14,7 @@ main:
     authors: Jiangbo Shi, Chen Li, <strong>Tieliang Gong*</strong>, Huazhu Fu 
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
-
+    image: ./assets/img/CVPR24.png
 
   - title: "Learning Guarantees for Non-convex Pairwise SGD with Heavy Tails"
     authors: Jun Chen, <strong>Hong Chen*</strong>, Bin Gu, Tieliang Gong, WeiFu Li 
@@ -43,7 +43,7 @@ main:
     pdf: 
     code: 
     bibtex: 
-    image: 
+    image: ./assets/img/TIT23.png
     notes: 
 
   - title: "Computationally Efficient Approximations for Matrix-based Renyi's Entropy"
