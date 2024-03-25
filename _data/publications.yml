@@ -23,7 +23,7 @@ main:
     pdf: 
     code: 
     bibtex: 
-    image: 
+    image: ./assets/img/ICLR24_SGD.png
     notes: 
 
   - title: "Markov Subsampling Based on Huber Criterion"
@@ -33,7 +33,7 @@ main:
     pdf: 
     code: 
     bibtex: 
-    image: 
+    image: ./assets/img/TNNLS24_huber.png
     notes: 
 
   - title: "Optimal Randomized Approximations for Matrix-based Renyi's Entropy"
@@ -46,6 +46,48 @@ main:
     image: 
     notes: 
 
+  - title: "Computationally Efficient Approximations for Matrix-based Renyi's Entropy"
+    authors: <strong>Tieliang Gong*</strong>, <strong>Yuxin Dong*<strong>, Shujian Yu, Bo Dong
+    conference_short: IEEE TSP
+    conference: IEEE Transactions on Signal Processing, 2023.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/TSP23.png
+    notes: 
+
+  - title: "Robust and Fast Measure of Information via Low-rank Representation"
+    authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Shujian Yu, Hong Chen, Chen Li
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence, 2023.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/AAAI23_fast.png
+    notes: 
+
+    - title: "Understanding the Generalization Ability of Deep Learning Algorithms: A Kernelized Renyi's Entropy Perspective"
+    authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Chen Li
+    conference_short: IJCAI
+    conference: International Joint Conference on Artificial Intelligence, 2023.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/IJCAI23_understanding.png
+    notes: 
+
+
+    - title: "PRAM: An End-to-end Prototype-based Representation Alignment Model for Zero-resource Cross-lingual Named Entity Recognition"
+    authors: Yucheng Huang, Wenqiang Liu, Xianli Zhang, Jun Lang, Tieliang Gong, Chen Li
+    conference_short: ACL
+    conference: Annual Meeting of the Association for Computational Linguistics, 2023.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/ACL23.png
+    notes: 
+
+    
   #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     #conference_short: CVPR
