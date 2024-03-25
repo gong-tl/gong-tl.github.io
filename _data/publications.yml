@@ -1,4 +1,15 @@
 main:
+  
+  - title: "Continual Learning for Abdominal Multi-Organ and Tumor Segmentation"
+    authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Chen Li (*Corresponding authors)
+    conference_short: ICLR
+    conference: International Conference on Learning Representation <strong>(ICLR)</strong>, 2024.
+    pdf: 
+    code: 
+    bibtex: 
+    image: 
+    notes: 
+
    
 
   - title: "Continual Learning for Abdominal Multi-Organ and Tumor Segmentation"
