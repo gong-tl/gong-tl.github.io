@@ -13,7 +13,7 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=yhsnUnMAAAAJ&hl=zh-CN
 cv_link: 
 github_link: https://gong-tl.github.io/
 #linkedin: https://www.linkedin.com/
@@ -21,7 +21,7 @@ github_link: https://gong-tl.github.io/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/GTL_NY.jpeg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
