@@ -20,21 +20,15 @@ main:
     authors: Jun Chen, <strong>Hong Chen*</strong>, Bin Gu, Tieliang Gong, WeiFu Li 
     conference_short: ICLR
     conference: International Conference on Learning Representation, 2024.
-    pdf: 
-    code: 
-    bibtex: 
     image: ./assets/img/ICLR24_SGD.png
-    notes: 
+     
 
   - title: "Markov Subsampling Based on Huber Criterion"
     authors: <strong>Tieliang Gong*</strong>, Yuxin Dong, Hong Chen, Bo Dong, Chen Li 
     conference_short: IEEE TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems, 2024.
-    pdf: 
-    code: 
-    bibtex: 
     image: ./assets/img/TNNLS24_huber.png
-    notes: 
+    
 
   - title: "Optimal Randomized Approximations for Matrix-based Renyi's Entropy"
     authors: Yuxin Dong,  <strong>Tieliang Gong*</strong>, Shujian Yu, Chen Li
@@ -71,16 +65,6 @@ main:
     authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Shujian Yu, Hong Chen, Chen Li
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence, 2023.
-    pdf: 
-    code: 
-    bibtex: 
-    image: ./assets/img/AAAI23_fast.png
-    notes: 
-
-  - title: "Template-free prompting for few-shot named entity recognition via Semantic-Enhanced Contrastive Learning"
-    authors: Kai He, Rui Mao, Yucheng Huang, Tieliang Gong, Chen Li, Erik Cambria
-    conference_short: IEEE TNNLS
-    conference: IEEE Transactions on Neural Networks and Learning Systems, 2023.
     pdf: 
     code: 
     bibtex: 
