@@ -57,7 +57,7 @@ main:
     notes: 
 
     
- - title: "Tilted Sparse Additive Models"
+  - title: "Tilted Sparse Additive Models"
     authors: Yingjie Wang, Hong Chen, Weifeng Liu, Tieliang Gong, Youcheng Fu, Dacheng Tao
     conference_short: ICML
     conference: International Conference on Machine Learning, 2023.
@@ -84,7 +84,7 @@ main:
     pdf: 
     code: 
     bibtex: 
-    image: 
+    image: ./assets/img/AAAI23_fast.png
     notes: 
 
   - title: "Understanding the Generalization Ability of Deep Learning Algorithms: A Kernelized Renyi's Entropy Perspective"
