@@ -12,7 +12,7 @@ main:
 
   - title: "ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification"
     authors: Jiangbo Shi, Chen Li, <strong>Tieliang Gong*</strong>, Huazhu Fu 
-    conference_short:
+    conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
 
 
@@ -47,7 +47,7 @@ main:
     notes: 
 
   - title: "Computationally Efficient Approximations for Matrix-based Renyi's Entropy"
-    authors: <strong>Tieliang Gong*</strong>, <strong>Yuxin Dong*<strong>, Shujian Yu, Bo Dong
+    authors: <strong>Tieliang Gong*</strong>, Yuxin Dong, Shujian Yu, Bo Dong
     conference_short: IEEE TSP
     conference: IEEE Transactions on Signal Processing, 2023.
     pdf: 
