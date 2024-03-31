@@ -14,6 +14,9 @@ main:
     authors: Jiangbo Shi, Chen Li, <strong>Tieliang Gong*</strong>, Huazhu Fu 
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    pdf: 
+    code: 
+    bibtex: 
     image: ./assets/img/CVPR24.png
 
   - title: "Learning Guarantees for Non-convex Pairwise SGD with Heavy Tails"
@@ -81,13 +84,15 @@ main:
     image: ./assets/img/IJCAI23_understanding.png
     notes: 
 
- #- title: "Dual Attention and Patient Similarity Network for Drug Recommendation"
-   #  authors: Jialun Wu, Yuxin Dong, Zeyu Gao, Tieliang Gong, Chen Li 
-   #  conference_short: BioInfo
-   #  conference: Bioinformatics, 2023.
-   #  pdf: 
-   # image: ./assets/img/BioInfo23.png
-   
+ - title: "Dual Attention and Patient Similarity Network for Drug Recommendation"
+   authors: Jialun Wu, Yuxin Dong, Zeyu Gao, Tieliang Gong, Chen Li 
+   conference_short: BioInfo
+   conference: Bioinformatics, 2023.
+   pdf: 
+   code: 
+   bibtex: 
+   image: ./assets/img/BioInfo23.png
+   notes: 
 
   - title: "PRAM: An End-to-end Prototype-based Representation Alignment Model for Zero-resource Cross-lingual Named Entity Recognition"
     authors: Yucheng Huang, Wenqiang Liu, Xianli Zhang, Jun Lang, Tieliang Gong, Chen Li
