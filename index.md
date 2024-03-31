@@ -14,7 +14,7 @@ I am open to exploring any potential collaboration opportunities. Please let me 
 ---
 My research interests mainly include machine learning theory and information theory. My goal is to develop the foundational theory that guides the design of computationally efficient machine learning algorithms that do not cause degeneration.  Recently,  my research revolves around some critical challenges in big data analysis within the information theoretical learning framework, including but not limited to conducting generalization analysis for deep learning algorithms,  developing novel information theoretical measures, fast approximation algorithms and corresponding statistical guarantees. Besides, I am also interested in exploring its potential applications in AI for science. 
 
-# Recruiting
+## Recruiting
 ---
 I am looking for highly motivated and self-driven students, who are interested in
 
@@ -24,7 +24,7 @@ I am looking for highly motivated and self-driven students, who are interested i
 -  AI for Medical, especially on pathology image analysis, drug recommendation and related topics on XAI for Medical
 
 ## News
-
+---
 - **[Feb. 2024]** Our paper about pairwise learning is accepted to ICLR 2024.
 - **[Sept.2024]** Our paper about multi-instance learning is accepted to CVPR 2024.
 - **[Aug. 2023]** I will be the Machine Learning Session Chair of the  IJCAI 2023 in MACAO!
