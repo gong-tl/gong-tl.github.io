@@ -37,6 +37,8 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Helvetica" # or "Sans Serif"
 
+yaml_library: syck
+
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
 # google_analytics: UA-111540567-4
