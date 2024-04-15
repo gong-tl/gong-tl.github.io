@@ -23,11 +23,18 @@ I am looking for highly motivated and self-driven students, who are interested i
 - Transfer learning, including out-of-distribution generalization/Detection based on information theoretical learning framework.
 -  AI for Medical, especially on pathology image analysis, drug recommendation and related topics on XAI for Medical
 
+## People
+---
+- Formal doctoral students: Zeyu Gao (Now at University of Cambridge), Kai He (Now at National University of Singapore)
+- Current Ph.D. students: Yuxin Dong (Co-advised by Prof. Chen Li), Wen Wen
+- Current Master students: Zeyang Zhang, Haoyang Zhang, Ying Huang, Huiting Huang
+
 ## News
 ---
-- **[Feb. 2024]** Our paper about pairwise learning is accepted to ICLR 2024.
-- **[Sept.2024]** Our paper about multi-instance learning is accepted to CVPR 2024.
-- **[Aug. 2023]** I will be the Machine Learning Session Chair of the  IJCAI 2023 in MACAO!
+- **[Feb. 2024]** Our paper about pairwise learning has been accepted to ICLR .
+- **[Sep.2024]** Our paper about multi-instance learning has been accepted to CVPR 2024.
+- **[Aug. 2023]** I will be the Machine Learning Session Chair of IJCAI in MACAO!
+- **[Mar. 2023]** I have been invited to give a talk at The Second Symposium on Mathematical Technology and New Generation Communication Technology!
 
 
 {% include_relative _includes/publications.md %}
