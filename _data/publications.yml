@@ -1,14 +1,14 @@
 main:
   
-  - title: "Rethinking Information-Theoretical Generalization: Loss entropy induced PAC Bounds"
-    authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Chen Li (*Corresponding authors)
-    conference_short: ICLR
-    conference: International Conference on Learning Representation, 2024.
-    pdf: 
-    code: 
-    bibtex: 
-    image: ./assets/img/ICLR24_rethinking.png
-    notes: 
+  #- title: "Rethinking Information-Theoretical Generalization: Loss entropy induced PAC Bounds"
+    #authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Chen Li (*Corresponding authors)
+    #conference_short: ICLR
+    #conference: International Conference on Learning Representation, 2024.
+    #pdf: 
+    #code: 
+    #bibtex: 
+    #image: ./assets/img/ICLR24_rethinking.png
+    #notes: 
 
   - title: "ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification"
     authors: Jiangbo Shi, Chen Li, Tieliang Gong, Yefeng Zheng, <strong>Huazhu Fu*</strong> 
