@@ -31,6 +31,7 @@ I am looking for highly motivated and self-driven students, who are interested i
 
 ## Recent news and activities
 ---
+- **[May. 2024]** One paper (about high-order contrastive learning) has been accepted to ICML.
 - **[Apr. 2024]** Two papers (about Stocastic Bi-level optimization and adversarial contrastive learning) have been accepted to IJCAI.
 - **[Feb. 2024]** Our paper about information theoretical analysis on pairwise learning has been accepted to ICLR.
 - **[Feb.2024]** Our paper about multi-instance learning has been accepted to CVPR 2024.
