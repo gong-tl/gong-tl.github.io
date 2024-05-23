@@ -21,6 +21,7 @@
       <li><a ><autocolor>IEEE Transactions on Medical Imaging (IEEE TMI)</autocolor></a></li>
     <li><a ><autocolor>IEEE Journal of Biomedical and Health Informatics  (IEEE JBHI)</autocolor></a></li>
   <li><a ><autocolor>Neural Computation </autocolor></a></li>
+   <li><a ><autocolor>Pattern Recognition</autocolor></a></li>
     <li><a ><autocolor>Information Science </autocolor></a></li>
    <li><a ><autocolor>Expert Systems with Applications </autocolor></a></li>
    <li><a ><autocolor> Neurocomputing </autocolor></a></li>
