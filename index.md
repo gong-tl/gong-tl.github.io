@@ -12,16 +12,16 @@ I am open to exploring any potential collaboration opportunities. Please let me 
 
 ## Research
 ---
-My research interests mainly include machine learning theory and information theory. My goal is to develop the foundational theory that guides the design of computationally efficient machine learning algorithms that do not cause degeneration.  Recently,  my research revolves around some critical challenges in big data analysis within the information theoretical learning framework, including but not limited to conducting generalization analysis for deep learning algorithms, developing novel information theoretical measures, fast approximation algorithms and corresponding statistical guarantees. Besides, I am also interested in exploring its potential applications in AI for science. 
+My research interests mainly include statistical learning theory and information theory. My goal is to develop the foundational theory that guides the design of computationally efficient machine learning algorithms that do not cause degeneration.  Recently, my research revolves around some critical challenges in big data analysis within the information theoretical learning framework, including but not limited to conducting generalization analysis for deep learning algorithms, disclosing the intrinsic factors for transfer learning and contrastive learning. Also, I explore potential applications of these theoretical advances in AI4Science. 
 
 ## Recruiting
 ---
 I am looking for highly motivated and self-driven students, who are interested in
 
--  Robust/Explainable machine learning, especially on coreset selection, subsampling, random sketching and kernel methods etc.
-- Generalization of DNNs, aims to open the black-box of deep learning. Theoretical investigation including complexity analysis, stability analysis, SGD/SGLD analysis etc. 
-- Transfer learning, including out-of-distribution generalization/Detection based on information theoretical learning framework.
--  AI for Medical, especially on pathology image analysis, drug recommendation and related topics on XAI for Medical
+-  Robust/Explainable machine learning, especially on coreset selection, subsampling, random sketching etc.
+- Generalization of DNNs, aims to open the black-box of deep learning. Theoretical investigation including complexity analysis, stability analysis, NTK, SGD/SGLD analysis etc. 
+- Transfer learning, including out-of-distribution generalization/Detection within the information theoretical learning framework.
+-  AI for Medical, especially on pathology image analysis and related topics on XAI for Medical.
 
 ## People
 ---
