@@ -41,7 +41,7 @@ main:
     conference_short: IJCAI
     conference: International Joint Conference on Artificial Intelligence, 2024.
     pdf: https://www.ijcai.org/proceedings/2024/609
-    image: ./assets/img/IJCAI24_SGBO.png
+    image: ./assets/img/IJCAI24_SBO.png
 
    
   - title: "Markov Subsampling Based on Huber Criterion"
