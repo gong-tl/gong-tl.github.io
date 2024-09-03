@@ -29,13 +29,22 @@ main:
     bibtex: 
     image: ./assets/img/CVPR24.png
 
-  - title: "Learning Guarantees for Non-convex Pairwise SGD with Heavy Tails"
-    authors: Jun Chen, <strong>Hong Chen*</strong>, Bin Gu, Tieliang Gong, WeiFu Li 
-    conference_short: ICLR
-    conference: International Conference on Learning Representation, 2024.
+  - title: "Towards Sharper Generalization Bounds for Adversarial Contrastive Learning"
+    authors: Wen Wen, <strong>Han Li*</strong>, Tieliang Gong, Hong Chen 
+    conference_short: IJCAI
+    conference: International Joint Conference on Artificial Intelligence, 2024.
+    pdf: https://www.ijcai.org/proceedings/2024/574
     image: ./assets/img/ICLR24_SGD.png
-     
 
+  - title: "Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization"
+    authors: Xuelin Zhang, <strong>Hong Chen*</strong>, Bin Gu, Tieliang Gong, Feng Zheng 
+    conference_short: IJCAI
+    conference: International Joint Conference on Artificial Intelligence, 2024.
+    pdf: https://www.ijcai.org/proceedings/2024/609
+    image: ./assets/img/ICLR24_SGD.png
+
+  
+     
   - title: "Markov Subsampling Based on Huber Criterion"
     authors: <strong>Tieliang Gong*</strong>, Yuxin Dong, Hong Chen, Bo Dong, Chen Li 
     conference_short: IEEE TNNLS
