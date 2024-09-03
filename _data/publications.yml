@@ -4,7 +4,7 @@ main:
     authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Mengxiang Li, Zhongjiang He, Shuangyong Song, Chen Li
     conference_short: ICML
     conference: International Conference on Machine Learning, 2024.
-    pdf: 
+    pdf: https://proceedings.mlr.press/v235/dong24a.html
     code: 
     bibtex: 
     image: ./assets/img/ICML24.png
@@ -14,7 +14,7 @@ main:
     authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Chen Li 
     conference_short: ICLR
     conference: International Conference on Learning Representation, 2024.
-    pdf: 
+    pdf: https://openreview.net/pdf?id=GWSIo2MzuH
     code: 
     bibtex: 
     image: ./assets/img/ICLR24_rethinking.png
@@ -34,21 +34,21 @@ main:
     conference_short: IJCAI
     conference: International Joint Conference on Artificial Intelligence, 2024.
     pdf: https://www.ijcai.org/proceedings/2024/574
-    image: ./assets/img/ICLR24_SGD.png
+    image: ./assets/img/IJCAI24_GCL.png
 
   - title: "Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization"
     authors: Xuelin Zhang, <strong>Hong Chen*</strong>, Bin Gu, Tieliang Gong, Feng Zheng 
     conference_short: IJCAI
     conference: International Joint Conference on Artificial Intelligence, 2024.
     pdf: https://www.ijcai.org/proceedings/2024/609
-    image: ./assets/img/ICLR24_SGD.png
+    image: ./assets/img/IJCAI24_SGBO.png
 
-  
-     
+   
   - title: "Markov Subsampling Based on Huber Criterion"
     authors: <strong>Tieliang Gong*</strong>, Yuxin Dong, Hong Chen, Bo Dong, Chen Li 
     conference_short: IEEE TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems, 2024.
+    pdf: https://ieeexplore.ieee.org/document/9830623
     image: ./assets/img/TNNLS24_huber.png
     
 
@@ -56,7 +56,7 @@ main:
     authors: Yuxin Dong,  <strong>Tieliang Gong*</strong>, Shujian Yu, Chen Li
     conference_short: IEEE TIT
     conference: IEEE Transactions on Information Theory, 2023.
-    pdf: 
+    pdf: https://ieeexplore.ieee.org/document/10077595
     code: 
     bibtex: 
     image: ./assets/img/TIT23.png
@@ -66,7 +66,7 @@ main:
     authors: <strong>Tieliang Gong*</strong>, Yuxin Dong, Shujian Yu, Bo Dong
     conference_short: IEEE TSP
     conference: IEEE Transactions on Signal Processing, 2023.
-    pdf: 
+    pdf: https://arxiv.org/pdf/2112.13720
     code: 
     bibtex: 
     image: ./assets/img/TSP23.png
@@ -77,7 +77,7 @@ main:
     authors: Yingjie Wang, Hong Chen, Weifeng Liu, Tieliang Gong, Youcheng Fu, Dacheng Tao
     conference_short: ICML
     conference: International Conference on Machine Learning, 2023.
-    pdf: 
+    pdf: https://proceedings.mlr.press/v202/wang23c/wang23c.pdf
     code: 
     bibtex: 
     image: ./assets/img/ICML23_tiled.png
@@ -87,7 +87,7 @@ main:
     authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Shujian Yu, Hong Chen, Chen Li
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence, 2023.
-    pdf: 
+    pdf: https://dl.acm.org/doi/10.1609/aaai.v37i6.25906
     code: 
     bibtex: 
     image: ./assets/img/AAAI23_fast.png
@@ -97,7 +97,7 @@ main:
     authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Chen Li
     conference_short: IJCAI
     conference: International Joint Conference on Artificial Intelligence, 2023.
-    pdf: 
+    pdf: https://www.ijcai.org/proceedings/2023/0405.pdf
     code: 
     bibtex: 
     image: ./assets/img/IJCAI23_understanding.png
@@ -107,7 +107,7 @@ main:
     authors: Jialun Wu, Yuxin Dong, Zeyu Gao, Tieliang Gong, Chen Li 
     conference_short: BioInfo
     conference: Bioinformatics, 2023.
-    pdf: 
+    pdf: https://academic.oup.com/bioinformatics/article/39/1/btad003/6972773
     code: 
     bibtex: 
     image: ./assets/img/BioInfo23.png
@@ -117,7 +117,7 @@ main:
     authors: Yucheng Huang, Wenqiang Liu, Xianli Zhang, Jun Lang, Tieliang Gong, Chen Li
     conference_short: ACL
     conference: Annual Meeting of the Association for Computational Linguistics, 2023.
-    pdf: 
+    pdf: https://aclanthology.org/2023.findings-acl.201/
     code: 
     bibtex: 
     image: ./assets/img/ACL23.png
