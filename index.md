@@ -25,12 +25,18 @@ I am looking for highly motivated and self-driven students, who are interested i
 
 ## People
 ---
-- Formal doctoral students: Zeyu Gao (Now at University of Cambridge), Kai He (Now at National University of Singapore)
-- Current Ph.D. students: Yuxin Dong (Co-advised by Prof. Chen Li), Wen Wen, Jialun Wu (Co-advised by Prof. Chen Li)
+-- Formal doctoral students:
+- Zeyu Gao (Now at University of Cambridge)
+- Kai He (Now at National University of Singapore)
+-- Current Ph.D. students:
+- Yuxin Dong (Co-advised by Prof. Chen Li),
+- Wen Wen
+- Jialun Wu (Co-advised by Prof. Chen Li)
 - Current Master students: Zeyang Zhang, Haoyang Zhang, Ying Huang, Huiting Huang
 
 ## Recent news and activities
 ---
+- **[Sep. 2024]** Two papers (about  Non-Maximum Suppression and diffusion model) has been accepted to NeurIPS.
 - **[May. 2024]** One paper (about high-order contrastive learning) has been accepted to ICML.
 - **[Apr. 2024]** Two papers (about Stocastic Bi-level optimization and adversarial contrastive learning) have been accepted to IJCAI.
 - **[Feb. 2024]** Our paper about information theoretical analysis on pairwise learning has been accepted to ICLR.
