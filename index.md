@@ -28,11 +28,20 @@ I am looking for highly motivated and self-driven students, who are interested i
 - Formal doctoral students: <br>
   Zeyu Gao (Now at University of Cambridge)<br>
   Kai He (Now at National University of Singapore)<br>
-- Current Ph.D. students:
-  Yuxin Dong (Co-advised by Prof. Chen Li),<br>
-  Wen Wen<br>
+- Current Ph.D. students:<br>
+  Yuxin Dong (Co-advised by Prof. Chen Li)<br>
+  Wen Wen <br>
+  Xinmeng Zuo <br>
   Jialun Wu (Co-advised by Prof. Chen Li)<br>
-- Current Master students: Zeyang Zhang, Haoyang Zhang, Ying Huang, Huiting Huang
+- Current Master students: <br>
+  Zeyang Zhang <br>
+  Haoyang Zhang <br>
+  Ying Huang <br>
+  Huiting Huang <br>
+  Qi Kong <br>
+  Yanan Chen <br>
+  Zhongbo Zhang <br>
+  Longteng Li <br> 
 
 ## Recent news and activities
 ---
