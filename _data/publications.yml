@@ -88,7 +88,7 @@ main:
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence, 2023.
     pdf: https://dl.acm.org/doi/10.1609/aaai.v37i6.25906
-    code: 
+    code: https://github.com/Yuxin-Dong/LRMI
     bibtex: 
     image: ./assets/img/AAAI23_fast.png
     notes: 
@@ -98,7 +98,7 @@ main:
     conference_short: IJCAI
     conference: International Joint Conference on Artificial Intelligence, 2023.
     pdf: https://www.ijcai.org/proceedings/2023/0405.pdf
-    code: 
+    code: https://github.com/Yuxin-Dong/KRE
     bibtex: 
     image: ./assets/img/IJCAI23_understanding.png
     notes: 
