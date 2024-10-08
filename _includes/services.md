@@ -3,12 +3,12 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-   <li><a ><autocolor>International Conference on Machine Learning (ICML) since 2020 </autocolor></a></li>
-   <li><a ><autocolor>Conference on Neural Information Processing Systems (NeurIPS) since 2020</autocolor></a></li>
-   <li><a ><autocolor>International Conference on Learning Representation (ICLR) since 2021</autocolor></a></li>
-   <li><a ><autocolor>Artificial Intelligence and Statstics (AISTATS) since 2023 </autocolor></a></li>  
-   <li><a ><autocolor>AAAI Conference on Aritificial Intelligence (AAAI) since 2018 </autocolor></a></li>
-  <li><a ><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) since 2020 </autocolor></a></li>
+   <li><a ><autocolor>International Conference on Machine Learning (ICML) </autocolor></a></li>
+   <li><a ><autocolor>Conference on Neural Information Processing Systems (NeurIPS) </autocolor></a></li>
+   <li><a ><autocolor>International Conference on Learning Representation (ICLR) </autocolor></a></li>
+   <li><a ><autocolor>Artificial Intelligence and Statstics (AISTATS)  </autocolor></a></li>  
+   <li><a ><autocolor>AAAI Conference on Aritificial Intelligence (AAAI)  </autocolor></a></li>
+  <li><a ><autocolor>International Joint Conference on Artificial Intelligence (IJCAI)  </autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
