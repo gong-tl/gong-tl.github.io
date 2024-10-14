@@ -10,6 +10,26 @@ main:
     image: ./assets/img/ICML24.png
     notes: 
 
+  - title: "Accelerating Non-Maximum Suppression: A Graph Theory Perspective"
+    authors: King-Siong Si, Lu Sun, Weizhan Zhang, Tieliang Gong, Jiahao Wang, Jiang Liu, Hao Sun
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems, 2024.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/NeurIPS24_Compress.png
+    notes: 
+
+  - title: "OneActor: Consistent Subject Generation via Cluster-Conditioned Guidance"
+    authors: Jiahao Wang, Caixia Yan, Haonan Lin, Weizhan Zhang, Mengmeng Wang, Tieliang Gong, Guang Dai, Hao Sun
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems, 2024.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/NeurIPS24_oneActor.png
+    notes: 
+  
   - title: "Rethinking Information-Theoretical Generalization: Loss entropy induced PAC Bounds"
     authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Chen Li 
     conference_short: ICLR
