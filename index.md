@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-
+---
 I am an Associate Professor at the School of Computer Science and Technology at Xi'an Jiaotong University. My students and I are part of the [Shaanxi Key Lab of BDKE](https://bdkelab.xjtu.edu.cn). Our research is funded by the National Key Research Development Program of China and the National Natural Science Foundation. 
  
 I have previously held positions as a postdoctoral researcher at the University of Ottawa and as a visiting scholar at the University of Michigan, Ann Arbor. I obtained my Ph.D in Applied Mathematics from Xi'an Jiaotong University, where I was fortunate to be advised by Prof. Zongben Xu, an esteemed  Academician of the Chinese Academy of Sciences.
