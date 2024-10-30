@@ -26,10 +26,10 @@ I am looking for highly motivated and self-driven students, who are interested i
 ## People
 ---
 - Formal doctoral students: <br>
-  Zeyu Gao (Next endeavor -- University of Cambridge)<br>
-  Kai He (Next endeavor -- National University of Singapore)<br>
-  Yuxin Dong (Next endeavor -- Ohio State University)<br>
-  Jialun Wu (Next endeavor -- Northwestern Polytechnical University) <br>
+  Zeyu Gao (Next position -- University of Cambridge)<br>
+  Kai He (Next position -- National University of Singapore)<br>
+  Yuxin Dong (Next position -- Ohio State University)<br>
+  Jialun Wu (Next position -- Northwestern Polytechnical University) <br>
 - Current Ph.D. students:<br>
   Wen Wen <br>
   Xinmeng Zuo <br>
