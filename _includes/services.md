@@ -14,7 +14,8 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a ><autocolor>IEEE Transactions on Information Theory (IEEE TIT)</autocolor></a></li>
+   <li><a ><autocolor> Journal of Machine Learning Research (JMLR)</autocolor></a></li> 
+   <li><a ><autocolor>IEEE Transactions on Information Theory (IEEE TIT)</autocolor></a></li>
     <li><a ><autocolor>IEEE Transactions on Signal Processing (IEEE TSP)</autocolor></a></li>
     <li><a ><autocolor>IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</autocolor></a></li>
       <li><a ><autocolor>IEEE Transactions on Cybernetics (IEEE TCYB)</autocolor></a></li>
