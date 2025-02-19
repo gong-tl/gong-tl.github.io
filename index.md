@@ -12,7 +12,7 @@ I am open to exploring any potential collaboration opportunities. Please let me 
 
 ## Research
 ---
-My research interests mainly include statistical learning theory and information theory. My goal is to develop the foundational theory that guides the design of computationally efficient machine learning algorithms that do not cause degradation.  Recently, my research revolves around some critical challenges in big data analysis within the information theoretical learning framework, including but not limited to conducting generalization analysis for deep learning algorithms, disclosing the intrinsic factors for transfer learning and contrastive learning. Also, I explore potential applications of these theoretical advances in AI4Science. 
+My research focuses on statistical learning theory and information theory, aiming to develop foundational principles for computationally efficient and reliable machine learning algorithms. My current work addresses key challenges in large-scale data analysis through information-theoretical frameworks, including generalization analysis of deep learning, theoretical foundations of transfer learning and continual learning, and the development of rigorous performance guarantees. I also explore the application of these theoretical advances in AI4Science, bridging the gap between theoretical insights and practical challenges. 
 
 ## Recruiting
 ---
@@ -20,16 +20,16 @@ I am looking for highly motivated and self-driven students, who are interested i
 
 -  Robust/Explainable machine learning, especially on coreset selection, subsampling, random sketching etc.
 - Generalization of DNNs, aims to open the black-box of deep learning. Theoretical investigation including complexity analysis,stability analysis, NTK, SGD/SGLD analysis etc. 
-- Transfer learning, including out-of-distribution generalization/Detection within the information- theoretical learning framework.
+- Transfer/Continual learning, including out-of-distribution generalization and brain-inspired CL methods.
 -  AI for Medical, especially on pathology image analysis and related topics on XAI for Medical.
 
 ## People
 ---
 - Formal doctoral students: <br>
-  Zeyu Gao (Next position -- University of Cambridge)<br>
-  Kai He (Next position -- National University of Singapore)<br>
-  Yuxin Dong (Next position -- Ohio State University)<br>
-  Jialun Wu (Next position -- Northwestern Polytechnical University) <br>
+  Zeyu Gao (University of Cambridge)<br>
+  Kai He (National University of Singapore)<br>
+  Yuxin Dong (Ohio State University)<br>
+  Jialun Wu (Northwestern Polytechnical University) <br>
 - Current Ph.D. students:<br>
   Wen Wen <br>
   Xinmeng Zuo <br>
@@ -45,6 +45,8 @@ I am looking for highly motivated and self-driven students, who are interested i
 
 ## Recent news and activities
 ---
+- **[Jan. 2025]** One paper (about domain generalization) has been accepted to IEEE TIT.
+- **[Dec. 2024]** One paper (about Chain-of-Diagnosis) has been accepted to IEEE TMI.
 - **[Oct. 2024]** One paper (about multi-instance learning for WSI classification) has been accepted to IEEE TMI.
 - **[Sep. 2024]** Two papers (about  Non-Maximum Suppression and diffusion model) have been accepted to NeurIPS.
 - **[May. 2024]** One paper (about high-order contrastive learning) has been accepted to ICML.
