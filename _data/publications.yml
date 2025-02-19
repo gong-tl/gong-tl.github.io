@@ -40,14 +40,14 @@ main:
     image: ./assets/img/ICLR24_rethinking.png
     notes: 
 
- - title: "CoD-MIL: Chain-of-Diagnosis Prompting Multiple Instance Learning for Whole Slide Image Classification"
-   authors: Jiangbo Shi, Chen Li, Tieliang Gong, Chunbao Wang, <strong>Huazhu Fu*</strong> 
-   conference_short: IEEE TMI
-   conference: IEEE Transactions on Neural Networks and Learning Systems, 2024.
-   pdf: https://ieeexplore.ieee.org/abstract/document/10731873
-   code: 
-   bibtex: 
-   image: ./assets/img/TMI24_COD.png
+  - title: "CoD-MIL: Chain-of-Diagnosis Prompting Multiple Instance Learning for Whole Slide Image Classification"
+    authors: Jiangbo Shi, Chen Li, Tieliang Gong, Chunbao Wang, <strong>Huazhu Fu*</strong> 
+    conference_short: IEEE TMI
+    conference: IEEE Transactions on Neural Networks and Learning Systems, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10731873
+    code: 
+    bibtex: 
+    image: ./assets/img/TMI24_COD.png
 
 
   - title: "ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification"
