@@ -3,7 +3,14 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-   <li><a ><autocolor> ICML, NeurIPS, ICLR, CVPR, AISTATS, UAI, AAAI, IJCAI </autocolor></a></li>
+   <li><a ><autocolor> ICML </autocolor></a></li>
+    <li><a ><autocolor> NeurIPS </autocolor></a></li>
+   <li><a ><autocolor> ICLR </autocolor></a></li>
+   <li><a ><autocolor> CVPR </autocolor></a></li>
+   <li><a ><autocolor> AISTATS </autocolor></a></li>
+   <li><a ><autocolor> UAI </autocolor></a></li>
+   <li><a ><autocolor> AAAI </autocolor></a></li>
+   <li><a ><autocolor> IJCAI </autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
@@ -14,7 +21,7 @@
     <li><a ><autocolor>IEEE Transactions on Signal Processing (IEEE TSP)</autocolor></a></li>
     <li><a ><autocolor>IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</autocolor></a></li>
       <li><a ><autocolor>IEEE Transactions on Cybernetics (IEEE TCYB)</autocolor></a></li>
-      <li><a ><autocolor>IEEE Transactions on Circuits and Systems for Video Technology </autocolor></a></li>
+      <li><a ><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</autocolor></a></li>
       <li><a ><autocolor>IEEE Transactions on Medical Imaging (IEEE TMI)</autocolor></a></li>
     <li><a ><autocolor>IEEE Journal of Biomedical and Health Informatics  (IEEE JBHI)</autocolor></a></li>
   <li><a ><autocolor>Neural Computation </autocolor></a></li>
