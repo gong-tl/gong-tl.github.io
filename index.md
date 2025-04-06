@@ -30,6 +30,7 @@ I am looking for highly motivated and self-driven students, who are interested i
   Kai He (National University of Singapore)<br>
   Yuxin Dong (Ohio State University)<br>
   Jialun Wu (Northwestern Polytechnical University) <br>
+---
 - Current Ph.D. students:<br>
   Wen Wen <br>
   Xinmeng Zuo <br>
@@ -45,6 +46,7 @@ I am looking for highly motivated and self-driven students, who are interested i
 
 ## Recent news and activities
 ---
+- **[Jan. 2025]** One paper (about GCN generalization) has been accepted to ICLR.
 - **[Jan. 2025]** One paper (about domain generalization) has been accepted to IEEE TIT.
 - **[Dec. 2024]** One paper (about Chain-of-Diagnosis) has been accepted to IEEE TMI.
 - **[Oct. 2024]** One paper (about multi-instance learning for WSI classification) has been accepted to IEEE TMI.
