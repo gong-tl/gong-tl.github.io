@@ -4,11 +4,12 @@
 
 <ul style="margin:0 0 5px;">
    <li><a ><autocolor> ICML </autocolor></a></li>
-    <li><a ><autocolor> NeurIPS </autocolor></a></li>
+   <li><a ><autocolor> NeurIPS </autocolor></a></li>
    <li><a ><autocolor> ICLR </autocolor></a></li>
    <li><a ><autocolor> CVPR </autocolor></a></li>
    <li><a ><autocolor> AISTATS </autocolor></a></li>
    <li><a ><autocolor> UAI </autocolor></a></li>
+   <li><a ><autocolor> ICCV </autocolor></a></li>
    <li><a ><autocolor> AAAI </autocolor></a></li>
    <li><a ><autocolor> IJCAI </autocolor></a></li>
 </ul>
