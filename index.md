@@ -8,7 +8,7 @@ I am an Associate Professor at the School of Computer Science and Technology at 
  
 I have previously held positions as a postdoctoral researcher at the University of Ottawa and as a visiting scholar at the University of Michigan, Ann Arbor. I obtained my Ph.D in Applied Mathematics from Xi'an Jiaotong University, where I was fortunate to be advised by Prof. Zongben Xu, an esteemed  Academician of the Chinese Academy of Sciences.
 
-I am open to exploring any potential collaboration opportunities. Please let me know if you'd like to collaborate, especially if you're interested in information theoretical learning issues.
+I am open to exploring any potential collaboration opportunities. Please let me know if you'd like to collaborate, especially if you're interested in information-theoretical learning issues.
 
 ## Research
 ---
@@ -16,7 +16,7 @@ My research focuses on statistical learning theory and information theory, aimin
 
 ## Recruiting
 ---
-I am looking for highly motivated and self-driven students, who are interested in
+I am looking for highly motivated and self-driven students who are interested in
 
 -  Robust/Explainable machine learning, especially on coreset selection, subsampling, random sketching etc.
 - Generalization of DNNs, aims to open the black-box of deep learning. Theoretical investigation including complexity analysis,stability analysis, NTK, SGD/SGLD analysis etc. 
@@ -46,17 +46,19 @@ I am looking for highly motivated and self-driven students, who are interested i
 
 ## Recent news and activities
 ---
-- **[Jan. 2025]** One paper (about GCN generalization) has been accepted to ICLR.
-- **[Jan. 2025]** One paper (about domain generalization) has been accepted to IEEE TIT.
-- **[Dec. 2024]** One paper (about Chain-of-Diagnosis) has been accepted to IEEE TMI.
-- **[Oct. 2024]** One paper (about multi-instance learning for WSI classification) has been accepted to IEEE TMI.
-- **[Sep. 2024]** Two papers (about  Non-Maximum Suppression and diffusion model) have been accepted to NeurIPS.
-- **[May. 2024]** One paper (about high-order contrastive learning) has been accepted to ICML.
-- **[Apr. 2024]** Two papers (about Stocastic Bi-level optimization and adversarial contrastive learning) have been accepted to IJCAI.
-- **[Feb. 2024]** Our paper about information theoretical analysis on pairwise learning has been accepted to ICLR.
-- **[Feb.2024]** Our paper about multi-instance learning has been accepted to CVPR 2024.
+- **[Feb. 2025]** One paper (on Diffusion Model GCN) has been accepted to CVPR.
+- **[Jan. 2025]** One paper (on GCN generalization) has been accepted to ICLR.
+- **[Jan. 2025]** One paper (on domain generalization) has been accepted to IEEE TIT.
+- **[Dec. 2024]** One paper (on Chain-of-Diagnosis) has been accepted to IEEE TMI.
+- **[Dec. 2024]** I have been invited to give a talk at Gaolin School of Artificial Intelligence, RUC. 
+- **[Oct. 2024]** One paper (on multi-instance learning for WSI classification) has been accepted to IEEE TMI.
+- **[Sep. 2024]** Two papers (on  Non-Maximum Suppression and diffusion model) have been accepted to NeurIPS.
+- **[May. 2024]** One paper (on high-order contrastive learning) has been accepted to ICML.
+- **[Apr. 2024]** Two papers (on Stochastic Bi-level optimization and adversarial contrastive learning) have been accepted to IJCAI.
+- **[Feb. 2024]** Our paper (on IT analysis for pairwise learning) has been accepted to ICLR.
+- **[Feb.2024]** Our paper (on Multi-instance learning) has been accepted to CVPR 2024.
 - **[Aug. 2023]** I will be the Machine Learning Session Chair of IJCAI in MACAO!
-- **[Mar. 2023]** I have been invited to give a talk at The Second Symposium on Mathematical Technology and New Generation Communication Technology!
+- **[Mar. 2023]** I have been invited to give a talk at the Second Symposium on Mathematical Technology and New Generation Communication Technology!
 
 
 {% include_relative _includes/publications.md %}
