@@ -46,7 +46,7 @@ I am looking for highly motivated and self-driven students who are interested in
 
 ## Recent news and activities
 ---
-- **[Feb. 2025]** One paper (on Diffusion Model GCN) has been accepted to CVPR.
+- **[Feb. 2025]** One paper (on Diffusion Model) has been accepted to CVPR.
 - **[Jan. 2025]** One paper (on GCN generalization) has been accepted to ICLR.
 - **[Jan. 2025]** One paper (on domain generalization) has been accepted to IEEE TIT.
 - **[Dec. 2024]** One paper (on Chain-of-Diagnosis) has been accepted to IEEE TMI.
@@ -56,7 +56,7 @@ I am looking for highly motivated and self-driven students who are interested in
 - **[May. 2024]** One paper (on high-order contrastive learning) has been accepted to ICML.
 - **[Apr. 2024]** Two papers (on Stochastic Bi-level optimization and adversarial contrastive learning) have been accepted to IJCAI.
 - **[Feb. 2024]** Our paper (on IT analysis for pairwise learning) has been accepted to ICLR.
-- **[Feb.2024]** Our paper (on Multi-instance learning) has been accepted to CVPR 2024.
+- **[Feb. 2024]** Our paper (on Multi-instance learning) has been accepted to CVPR 2024.
 - **[Aug. 2023]** I will be the Machine Learning Session Chair of IJCAI in MACAO!
 - **[Mar. 2023]** I have been invited to give a talk at the Second Symposium on Mathematical Technology and New Generation Communication Technology!
 
