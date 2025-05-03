@@ -46,6 +46,7 @@ I am looking for highly motivated and self-driven students who are interested in
 
 ## Recent news and activities
 ---
+- **[May. 2025]** Two papers (on ILT exactly generalization and Fine-tuning of SAM) have been accepted to ICML.
 - **[Feb. 2025]** One paper (on Diffusion Model) has been accepted to CVPR.
 - **[Jan. 2025]** One paper (on GCN generalization) has been accepted to ICLR.
 - **[Jan. 2025]** One paper (on domain generalization) has been accepted to IEEE TIT.
