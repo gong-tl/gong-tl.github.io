@@ -1,4 +1,25 @@
 main:
+
+  - title: "How Does Distribution Matching Help Domain Generalization: An Information-Theoretic Analysis"
+    authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Shuangyong Song, Weizhan Zhang, Chen Li
+    conference_short: IEEE TIT
+    conference: IEEE Transactions on Information Theory, 2025.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10844895
+    code: 
+    bibtex: 
+    image: ./assets/img/TIT25.png
+    notes: 
+  
+  - title: "Rectified Diffusion Guidance for Conditional Generation"
+    authors: Mengfei Xia, Nan Xue, Yujun Shen, Ran Yi, Tieliang Gong, Yong-Jin Liu
+    conference_short: CVPR
+    conference: Computer Vision and Pattern Recognition, 2025.
+    pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Xia_Rectified_Diffusion_Guidance_for_Conditional_Generation_CVPR_2025_paper.pdf
+    code: https://github.com/thuxmf/recfg
+    bibtex: 
+    image: ./assets/img/cvpr25.png
+    notes: 
+
   
   - title: "Towards Generalization beyond Pointwise Learning: A Unified Information-theoretic Perspective"
     authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Mengxiang Li, Zhongjiang He, Shuangyong Song, Chen Li
