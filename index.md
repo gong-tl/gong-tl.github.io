@@ -46,6 +46,7 @@ I am looking for highly motivated and self-driven students who are interested in
 
 ## Recent news and activities
 ---
+- **[Jun. 2025]** I have been invited to speak at the Workshop on Foundation Theory of Language Models at VALSE (Vision and Learning Seminar) in Zhuhai!
 - **[May. 2025]** Two papers (on ILT exactly generalization and Fine-tuning of SAM) have been accepted to ICML.
 - **[Feb. 2025]** One paper (on Diffusion Model) has been accepted to CVPR.
 - **[Jan. 2025]** One paper (on GCN generalization) has been accepted to ICLR.
@@ -58,8 +59,8 @@ I am looking for highly motivated and self-driven students who are interested in
 - **[Apr. 2024]** Two papers (on Stochastic Bi-level optimization and adversarial contrastive learning) have been accepted to IJCAI.
 - **[Feb. 2024]** Our paper (on IT analysis for pairwise learning) has been accepted to ICLR.
 - **[Feb. 2024]** Our paper (on Multi-instance learning) has been accepted to CVPR 2024.
-- **[Aug. 2023]** I will be the Machine Learning Session Chair of IJCAI in MACAO!
-- **[Mar. 2023]** I have been invited to give a talk at the Second Symposium on Mathematical Technology and New Generation Communication Technology!
+- **[Aug. 2023]** I will be the Machine Learning Session Chair of IJCAI, MACAO, China!
+- **[Mar. 2023]** I have been invited to speak at the Second Symposium on Mathematical Technology and New Generation Communication Technology!
 
 
 {% include_relative _includes/publications.md %}
