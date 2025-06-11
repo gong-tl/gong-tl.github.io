@@ -9,6 +9,27 @@ main:
     bibtex: 
     image: ./assets/img/TIT25.png
     notes: 
+
+
+  - title: "Exactly Tight Information-theoretic Generalization Bounds via Binary Jensen-Shannon Divergence"
+    authors: Yuxin Dong, Haoran Guo, <strong>Tieliang Gong*</strong>, Wen Wen, Chen Li
+    conference_short: ICML 
+    conference: International Conference on Machine Learning, 2025.
+    pdf: https://openreview.net/pdf?id=qfgtBeBLsD
+    code: 
+    bibtex: 
+    image: ./assets/img/ICML25_bjsd.png
+    notes: 
+
+  - title: "InfoSAM: Fine-Tuning the Segment Anything Model from an Information-Theoretic Perspective "
+    authors: Yuanhong Zhang, Muyao Yuan, Weizhan Zhang, Tieliang Gong, Wen Wen, Jiangyong Ying, Weijie Shi 
+    conference_short: ICML 
+    conference: International Conference on Machine Learning, 2025.
+    pdf: https://openreview.net/pdf?id=VpBBw1bL47
+    code: 
+    bibtex: 
+    image: ./assets/img/ICML25_Info.png
+    notes: 
   
   - title: "Rectified Diffusion Guidance for Conditional Generation"
     authors: Mengfei Xia, Nan Xue, Yujun Shen, Ran Yi, Tieliang Gong, Yong-Jin Liu
