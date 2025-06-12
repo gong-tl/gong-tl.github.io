@@ -38,7 +38,7 @@ main:
     pdf: https://link.springer.com/article/10.1007/s10994-025-06801-5
     code: 
     bibtex: 
-    image: ./assets/img/ICML25_Info.png
+    image: ./assets/img/MLJ25.png
     notes: 
   
   - title: "Rectified Diffusion Guidance for Conditional Generation"
