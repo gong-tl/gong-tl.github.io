@@ -30,6 +30,16 @@ main:
     bibtex: 
     image: ./assets/img/ICML25_Info.png
     notes: 
+
+  - title: "Leveraging differentiable NAS and abstract genetic algorithms for optimizing on-mobile VSR performance "
+    authors: Xuncheng Liu, Weizhan Zhang, Tieliang Gong, Caixia Yan, Rui Li 
+    conference_short: ML 
+    conference: Machine Learning, 2025.
+    pdf: https://link.springer.com/article/10.1007/s10994-025-06801-5
+    code: 
+    bibtex: 
+    image: ./assets/img/ICML25_Info.png
+    notes: 
   
   - title: "Rectified Diffusion Guidance for Conditional Generation"
     authors: Mengfei Xia, Nan Xue, Yujun Shen, Ran Yi, Tieliang Gong, Yong-Jin Liu
