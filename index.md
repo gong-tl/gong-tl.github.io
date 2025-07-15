@@ -34,8 +34,9 @@ I am looking for highly motivated and self-driven students who are interested in
 - Current Ph.D. students:<br>
   Wen Wen <br>
   Xinmeng Zuo <br>
-- Current Master students: <br>
   Zeyang Zhang <br>
+  Yunfei Zhang <br>
+- Current Master students: <br>
   Haoyang Zhang <br>
   Ying Huang <br>
   Huiting Huang <br>
@@ -67,4 +68,4 @@ I am looking for highly motivated and self-driven students who are interested in
 
 {% include_relative _includes/services.md %}
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=7oTAAEkA40qGB0fXnZnoEfhq7fxO1EaO6PgFitbwp4w&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=7oTAAEkA40qGB0fXnZnoEfhq7fxO1EaO6PgFitbwp4w&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
