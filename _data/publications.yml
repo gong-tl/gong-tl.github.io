@@ -31,6 +31,16 @@ main:
     image: ./assets/img/ICML25_Info.png
     notes: 
 
+  - title: "Towards Generalization Bounds of GCNs for Adversarially Robust Node Classification"
+    authors: Wen Wen, Han Li, Tieliang Gong, Hong Chen 
+    conference_short: ICLR 
+    conference: International Conference on Learning Representation, 2025.
+    pdf: https://openreview.net/forum?id=cp3aW7C5tD
+    code: 
+    bibtex: 
+    image: ./assets/img/ICLR25.png
+    notes: 
+
   - title: "Leveraging differentiable NAS and abstract genetic algorithms for optimizing on-mobile VSR performance "
     authors: Xuncheng Liu, Weizhan Zhang, Tieliang Gong, Caixia Yan, Rui Li 
     conference_short: ML 
