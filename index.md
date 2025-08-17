@@ -18,10 +18,10 @@ My research focuses on statistical learning theory and information theory, aimin
 ---
 I am looking for highly motivated and self-driven students who are interested in
 
--  Robust/Explainable machine learning, especially on coreset selection, subsampling, random sketching etc.
-- Generalization of DNNs, aims to open the black-box of deep learning. Theoretical investigation including complexity analysis,stability analysis, NTK, SGD/SGLD analysis etc. 
-- Transfer/Continual learning, including out-of-distribution generalization and brain-inspired CL methods.
--  AI for Medical, especially on pathology image analysis and related topics on XAI for Medical.
+-  Robust and Explainable Machine Learning: with emphasis on scalable data selection and compression methods (e.g., coreset construction, subsampling strategies, randomized sketching), and their role in enhancing reliability and     interpretability of modern ML systems.
+- Generalization of DNNs, aiming to demystify the black-box nature of deep learning via rigorous theoretical tools, including complexity measures, stability-based analysis, neural tangent kernels (NTK), optimization dynamics of SGD/SGLD, and information-theoretic perspectives. 
+- Transfer/Continual learning, focusing on fundamental challenges of knowledge transfer across tasks and domains, out-of-distribution (OOD) generalization, and biologically/plausibly brain-inspired approaches for lifelong learning.
+-  AI for Medical, with a particular focus on computational pathology, multi-modal medical data integration, and trustworthy medical AI through explainability and uncertainty quantification.
 
 ## People
 ---
@@ -30,10 +30,8 @@ I am looking for highly motivated and self-driven students who are interested in
   Kai He (National University of Singapore)<br>
   Yuxin Dong (Ohio State University)<br>
   Jialun Wu (Northwestern Polytechnical University) <br>
----
 - Current Ph.D. students:<br>
   Wen Wen <br>
-  Xinmeng Zuo <br>
   Zeyang Zhang <br>
   Yunfei Zhang <br>
 - Current Master students: <br>
@@ -43,7 +41,11 @@ I am looking for highly motivated and self-driven students who are interested in
   Qi Kong <br>
   Yanan Chen <br>
   Zhongbo Zhang <br>
-  Longteng Li <br> 
+  Longteng Li <br>
+  Duozhi Sun <br>
+  Chenhang Tang <br>
+  Junyan Lu <br>
+  
 
 ## Recent news and activities
 ---
