@@ -19,7 +19,7 @@ My research focuses on statistical learning theory and information theory, aimin
 I am looking for highly motivated and self-driven students who are interested in
 
 -  Robust and Explainable Machine Learning: with emphasis on scalable data selection and compression methods (e.g., coreset construction, subsampling strategies, randomized sketching), and their role in enhancing reliability and     interpretability of modern ML systems.
-- Generalization of DNNs, aiming to demystify the black-box nature of deep learning via rigorous theoretical tools, including complexity measures, stability-based analysis, neural tangent kernels (NTK), optimization dynamics of SGD/SGLD, and information-theoretic perspectives. 
+- Generalization of DNNs, aiming to demystify the black-box nature of deep learning via rigorous theoretical tools, including stability-based analysis, neural tangent kernels (NTK), optimization dynamics of SGD/SGLD, and information-theoretic perspectives. 
 - Transfer/Continual learning, focusing on fundamental challenges of knowledge transfer across tasks and domains, out-of-distribution (OOD) generalization, and biologically/plausibly brain-inspired approaches for lifelong learning.
 -  AI for Medical, with a particular focus on computational pathology, multi-modal medical data integration, and trustworthy medical AI through explainability and uncertainty quantification.
 
