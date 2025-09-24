@@ -28,7 +28,7 @@ I am looking for highly motivated and self-driven students who are interested in
 
 <div style="display: flex; flex-direction: column; gap: 18px;">
 
-<div style="border:1px solid #ccc; border-radius:12px; padding:16px; background:#fef9f9;">
+<div style="border:1px solid #ccc; border-radius:12px; padding:16px;">
   <b style="color:#c0392b; font-size:16px;">📌 Formal Doctoral Students</b><br><br>
   • Zeyu Gao (University of Cambridge)<br>
   • Kai He (National University of Singapore)<br>
@@ -36,14 +36,14 @@ I am looking for highly motivated and self-driven students who are interested in
   • Jialun Wu (Northwestern Polytechnical University)
 </div>
 
-<div style="border:1px solid #ccc; border-radius:12px; padding:16px; background:#f9fbfe;">
+<div style="border:1px solid #ccc; border-radius:12px; padding:16px;">
   <b style="color:#2980b9; font-size:16px;">🎓 Current Ph.D. Students</b><br><br>
   • Wen Wen<br>
   • Zeyang Zhang<br>
   • Yunfei Zhang
 </div>
 
-<div style="border:1px solid #ccc; border-radius:12px; padding:16px; background:#f9fef9;">
+<div style="border:1px solid #ccc; border-radius:12px; padding:16px;">
   <b style="color:#27ae60; font-size:16px;">📖 Current Master Students</b><br><br>
   • Haoyang Zhang<br>
   • Ying Huang<br>
