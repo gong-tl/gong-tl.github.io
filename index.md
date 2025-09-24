@@ -2,19 +2,19 @@
 layout: homepage
 ---
 
-## About Me
+## 👨‍🏫 About Me
 ---
 I am an Associate Professor at the School of Computer Science and Technology at Xi'an Jiaotong University. My students and I are part of the [Shaanxi Key Lab of BDKE](https://bdkelab.xjtu.edu.cn). Our research is funded by the National Key Research Development Program of China and the National Natural Science Foundation. 
  
 I have previously held positions as a postdoctoral researcher at the University of Ottawa and as a visiting scholar at the University of Michigan, Ann Arbor. I obtained my Ph.D in Applied Mathematics from Xi'an Jiaotong University, where I was fortunate to be advised by Prof. Zongben Xu, an esteemed  Academician of the Chinese Academy of Sciences.
 
-I am open to exploring any potential collaboration opportunities. Please let me know if you'd like to collaborate, especially if you're interested in information-theoretical learning issues.
+🤝 I am open to exploring any potential collaboration opportunities. Please let me know if you'd like to collaborate, especially if you're interested in information-theoretical learning issues.
 
-## Research
+##  🔬 Research
 ---
 My research focuses on statistical learning theory and information theory, aiming to develop foundational principles for computationally efficient and reliable machine learning algorithms. My current work addresses key challenges in large-scale data analysis through information-theoretical frameworks, including generalization analysis of deep learning, theoretical foundations of transfer learning and continual learning, and the development of rigorous performance guarantees. I also explore the application of these theoretical advances in AI4Science, bridging the gap between theoretical insights and practical challenges. 
 
-## Recruiting
+## 📢 Recruiting
 ---
 I am looking for highly motivated and self-driven students who are interested in
 
