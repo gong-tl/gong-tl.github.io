@@ -49,6 +49,7 @@ I am looking for highly motivated and self-driven students who are interested in
 
 ## Recent news and activities
 ---
+- <span style="color:red">**[Sep. 2025]**</span> One Paper (On Multi-Instance Learning for Computational Pathology) has been accepted to Nature Cancer, One Paper (On IT generalization for Multiview Learning) has been accepted to Information Fusion. 
 - **[Jun. 2025]** I have been invited to speak at the Workshop on Foundation Theory of Language Models at VALSE (Vision and Learning Seminar) in Zhuhai!
 - **[May. 2025]** Two papers (on ILT exactly generalization and Fine-tuning of SAM) have been accepted to ICML.
 - **[Feb. 2025]** One paper (on Diffusion Model) has been accepted to CVPR.
