@@ -72,7 +72,7 @@ I am looking for highly motivated and self-driven students who are interested in
 
 <div style="border-left: 3px solid #4CAF50; padding-left: 12px; margin-top: 10px;">
   <p><b style="color:#e74c3c">Sep. 2025</b> — One paper on <i>Multi-Instance Learning for Computational Pathology</i> accepted to <b>Nature Cancer</b>; one on <i>IT Generalization for Multiview Learning</i> accepted to <b>Information Fusion</b>.</p>  
-  <p><b style="color:#3498db">Jun. 2025</b> — Invited to speak at the Workshop on <i>Foundation Theory of Language Models</i> at <b>VALSE</b>, Zhuhai.</p>
+  <p><b style="color:#3498db">Jun. 2025</b> — Invited talk at the Workshop on <i>Foundation Theory of Language Models</i> at <b>VALSE</b>, Zhuhai.</p>
   <p><b style="color:#27ae60">May. 2025</b> — Two papers (on <i>ILT Exact Generalization</i> and <i>Fine-tuning of SAM</i>) accepted to <b>ICML</b>.</p>
   <p><b style="color:#9b59b6">Feb. 2025</b> — One paper on <i>Diffusion Model</i> accepted to <b>CVPR</b>.</p>
   <p><b style="color:#e67e22">Jan. 2025</b> — One paper on <i>GCN Generalization</i> accepted to <b>ICLR</b>.</p>
