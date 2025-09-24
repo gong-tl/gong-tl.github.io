@@ -23,7 +23,45 @@ I am looking for highly motivated and self-driven students who are interested in
 - Transfer/Continual learning, focusing on fundamental challenges of knowledge transfer across tasks and domains, out-of-distribution (OOD) generalization, and biologically/plausibly brain-inspired approaches for lifelong learning.
 -  AI for Medical, with a particular focus on computational pathology, multi-modal medical data integration, and trustworthy medical AI through explainability and uncertainty quantification.
 
-## People
+
+## 🎓 People
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+
+<div style="border:1px solid #ddd; border-radius:10px; padding:12px; background:#fafafa;">
+  <b>📌 Formal Doctoral Students</b><br>
+  • Zeyu Gao (University of Cambridge)<br>
+  • Kai He (National University of Singapore)<br>
+  • Yuxin Dong (Ohio State University)<br>
+  • Jialun Wu (Northwestern Polytechnical University)
+</div>
+
+<div style="border:1px solid #ddd; border-radius:10px; padding:12px; background:#fafafa;">
+  <b>🎓 Current Ph.D. Students</b><br>
+  • Wen Wen<br>
+  • Zeyang Zhang<br>
+  • Yunfei Zhang
+</div>
+
+<div style="border:1px solid #ddd; border-radius:10px; padding:12px; background:#fafafa;">
+  <b>📖 Current Master Students</b><br>
+  • Haoyang Zhang<br>
+  • Ying Huang<br>
+  • Huiting Huang<br>
+  • Qi Kong<br>
+  • Yanan Chen<br>
+  • Zhongbo Zhang<br>
+  • Longteng Li<br>
+  • Duozhi Sun<br>
+  • Chenhang Tang<br>
+  • Junyan Lu
+</div>
+
+</div>
+
+
+
+<!-- ## People
 ---
 - Formal doctoral students: <br>
   Zeyu Gao (University of Cambridge)<br>
@@ -45,9 +83,9 @@ I am looking for highly motivated and self-driven students who are interested in
   Duozhi Sun <br>
   Chenhang Tang <br>
   Junyan Lu <br>
-  
 
-<!-- ## Recent news and activities
+
+ ## Recent news and activities
 ---
 - <span style="color:red">**[Sep. 2025]**</span> One Paper (On Multi-Instance Learning for Computational Pathology) has been accepted to Nature Cancer, and one Paper (On IT generalization for Multiview Learning) has been accepted to Information Fusion. 
 - **[Jun. 2025]** I have been invited to speak at the Workshop on Foundation Theory of Language Models at VALSE (Vision and Learning Seminar) in Zhuhai!
@@ -67,7 +105,7 @@ I am looking for highly motivated and self-driven students who are interested in
 - **[Mar. 2023]** I have been invited to speak at the Second Symposium on Mathematical Technology and New Generation Communication Technology!
 -->
 
-## Recent News and Activities
+## ✨ Recent News and Activities
 ---
 
 <div style="border-left: 3px solid #4CAF50; padding-left: 12px; margin-top: 10px;">
