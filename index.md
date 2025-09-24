@@ -24,27 +24,27 @@ I am looking for highly motivated and self-driven students who are interested in
 -  AI for Medical, with a particular focus on computational pathology, multi-modal medical data integration, and trustworthy medical AI through explainability and uncertainty quantification.
 
 
-## 🎓 People
+## 🎓 Students
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+<div style="display: flex; flex-direction: column; gap: 18px;">
 
-<div style="border:1px solid #ddd; border-radius:10px; padding:12px; background:#fafafa;">
-  <b>📌 Formal Doctoral Students</b><br>
+<div style="border:1px solid #ccc; border-radius:12px; padding:16px; background:#fef9f9;">
+  <b style="color:#c0392b; font-size:16px;">📌 Formal Doctoral Students</b><br><br>
   • Zeyu Gao (University of Cambridge)<br>
   • Kai He (National University of Singapore)<br>
   • Yuxin Dong (Ohio State University)<br>
   • Jialun Wu (Northwestern Polytechnical University)
 </div>
 
-<div style="border:1px solid #ddd; border-radius:10px; padding:12px; background:#fafafa;">
-  <b>🎓 Current Ph.D. Students</b><br>
+<div style="border:1px solid #ccc; border-radius:12px; padding:16px; background:#f9fbfe;">
+  <b style="color:#2980b9; font-size:16px;">🎓 Current Ph.D. Students</b><br><br>
   • Wen Wen<br>
   • Zeyang Zhang<br>
   • Yunfei Zhang
 </div>
 
-<div style="border:1px solid #ddd; border-radius:10px; padding:12px; background:#fafafa;">
-  <b>📖 Current Master Students</b><br>
+<div style="border:1px solid #ccc; border-radius:12px; padding:16px; background:#f9fef9;">
+  <b style="color:#27ae60; font-size:16px;">📖 Current Master Students</b><br><br>
   • Haoyang Zhang<br>
   • Ying Huang<br>
   • Huiting Huang<br>
@@ -58,6 +58,7 @@ I am looking for highly motivated and self-driven students who are interested in
 </div>
 
 </div>
+
 
 
 
