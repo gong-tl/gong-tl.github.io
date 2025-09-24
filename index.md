@@ -49,7 +49,7 @@ I am looking for highly motivated and self-driven students who are interested in
 
 ## Recent news and activities
 ---
-- <span style="color:red">**[Sep. 2025]**</span> One Paper (On Multi-Instance Learning for Computational Pathology) has been accepted to Nature Cancer, One Paper (On IT generalization for Multiview Learning) has been accepted to Information Fusion. 
+- <span style="color:red">**[Sep. 2025]**</span> One Paper (On Multi-Instance Learning for Computational Pathology) has been accepted to Nature Cancer, and one Paper (On IT generalization for Multiview Learning) has been accepted to Information Fusion. 
 - **[Jun. 2025]** I have been invited to speak at the Workshop on Foundation Theory of Language Models at VALSE (Vision and Learning Seminar) in Zhuhai!
 - **[May. 2025]** Two papers (on ILT exactly generalization and Fine-tuning of SAM) have been accepted to ICML.
 - **[Feb. 2025]** One paper (on Diffusion Model) has been accepted to CVPR.
@@ -65,6 +65,45 @@ I am looking for highly motivated and self-driven students who are interested in
 - **[Feb. 2024]** Our paper (on Multi-instance learning) has been accepted to CVPR 2024.
 - **[Aug. 2023]** I will be the Machine Learning Session Chair of IJCAI, MACAO, China!
 - **[Mar. 2023]** I have been invited to speak at the Second Symposium on Mathematical Technology and New Generation Communication Technology!
+
+
+## Recent News
+---
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
+
+<div style="border:1px solid #ddd; border-radius:10px; padding:10px;">
+  <b style="color:#e74c3c">Sep. 2025</b><br>
+  📝 Nature Cancer, Information Fusion (2 papers accepted)
+</div>
+
+<div style="border:1px solid #ddd; border-radius:10px; padding:10px;">
+  <b style="color:#3498db">Jun. 2025</b><br>
+  🎤 Invited talk at VALSE (Zhuhai)
+</div>
+
+<div style="border:1px solid #ddd; border-radius:10px; padding:10px;">
+  <b style="color:#27ae60">May. 2025</b><br>
+  📚 ICML (2 papers accepted)
+</div>
+
+<div style="border:1px solid #ddd; border-radius:10px; padding:10px;">
+  <b style="color:#9b59b6">Feb. 2025</b><br>
+  📖 CVPR (Diffusion Model)
+</div>
+
+<div style="border:1px solid #ddd; border-radius:10px; padding:10px;">
+  <b style="color:#e67e22">Jan. 2025</b><br>
+  📖 ICLR (GCN Generalization)
+</div>
+
+<div style="border:1px solid #ddd; border-radius:10px; padding:10px;">
+  <b style="color:#8e44ad">Jan. 2025</b><br>
+  📖 IEEE TIT (Domain Generalization)
+</div>
+
+</div>
+
 
 
 {% include_relative _includes/publications.md %}
