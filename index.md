@@ -47,7 +47,7 @@ I am looking for highly motivated and self-driven students who are interested in
   Junyan Lu <br>
   
 
-## Recent news and activities
+<!-- ## Recent news and activities
 ---
 - <span style="color:red">**[Sep. 2025]**</span> One Paper (On Multi-Instance Learning for Computational Pathology) has been accepted to Nature Cancer, and one Paper (On IT generalization for Multiview Learning) has been accepted to Information Fusion. 
 - **[Jun. 2025]** I have been invited to speak at the Workshop on Foundation Theory of Language Models at VALSE (Vision and Learning Seminar) in Zhuhai!
@@ -65,23 +65,24 @@ I am looking for highly motivated and self-driven students who are interested in
 - **[Feb. 2024]** Our paper (on Multi-instance learning) has been accepted to CVPR 2024.
 - **[Aug. 2023]** I will be the Machine Learning Session Chair of IJCAI, MACAO, China!
 - **[Mar. 2023]** I have been invited to speak at the Second Symposium on Mathematical Technology and New Generation Communication Technology!
+-->
 
-
-## 📰 Recent News and Activities
+## Recent News and Activities
 ---
 
 <div style="border-left: 3px solid #4CAF50; padding-left: 12px; margin-top: 10px;">
-  <p><b style="color:#e74c3c">Sep. 2025</b> — One paper on <i>Multi-Instance Learning for Computational Pathology</i> accepted to <b>Nature Cancer</b>; one on <i>IT Generalization for Multiview Learning</i> accepted to <b>Information Fusion</b>.</p>
-  
+  <p><b style="color:#e74c3c">Sep. 2025</b> — One paper on <i>Multi-Instance Learning for Computational Pathology</i> accepted to <b>Nature Cancer</b>; one on <i>IT Generalization for Multiview Learning</i> accepted to <b>Information Fusion</b>.</p>  
   <p><b style="color:#3498db">Jun. 2025</b> — Invited to speak at the Workshop on <i>Foundation Theory of Language Models</i> at <b>VALSE</b>, Zhuhai.</p>
-  
   <p><b style="color:#27ae60">May. 2025</b> — Two papers (on <i>ILT Exact Generalization</i> and <i>Fine-tuning of SAM</i>) accepted to <b>ICML</b>.</p>
-  
   <p><b style="color:#9b59b6">Feb. 2025</b> — One paper on <i>Diffusion Model</i> accepted to <b>CVPR</b>.</p>
-  
   <p><b style="color:#e67e22">Jan. 2025</b> — One paper on <i>GCN Generalization</i> accepted to <b>ICLR</b>.</p>
-  
   <p><b style="color:#8e44ad">Jan. 2025</b> — One paper on <i>Domain Generalization</i> accepted to <b>IEEE TIT</b>.</p>
+  <p><b style="color:#8e44ad">Dec. 2024</b> — Invited talk at Gaolin School of Artificial Intelligence, RUC.</p>
+  <p><b style="color:#e67e22">Jan. 2025</b> — One paper on <i>multi-instance learning for WSI classification</i> accepted to <b>IEEE TMI</b>.</p>
+  <p><b style="color:#27ae60">May. 2025</b> — Two papers (on <i>Non-Maximum Suppression</i> and <i>Diffusion Model</i>) accepted to <b>NeurIPS</b>.</p>
+  <p><b style="color:#e67e22">Jan. 2025</b> — One paper on <i>High-order Contrastive Learning</i> accepted to <b>ICML</b>.</p>
+
+  
 </div>
 
 
