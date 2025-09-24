@@ -78,9 +78,9 @@ I am looking for highly motivated and self-driven students who are interested in
   <p><b style="color:#e67e22">Jan. 2025</b> — One paper on <i>GCN Generalization</i> accepted to <b>ICLR</b>.</p>
   <p><b style="color:#8e44ad">Jan. 2025</b> — One paper on <i>Domain Generalization</i> accepted to <b>IEEE TIT</b>.</p>
   <p><b style="color:#8e44ad">Dec. 2024</b> — Invited talk at Gaolin School of Artificial Intelligence, RUC.</p>
-  <p><b style="color:#e67e22">Jan. 2025</b> — One paper on <i>multi-instance learning for WSI classification</i> accepted to <b>IEEE TMI</b>.</p>
-  <p><b style="color:#27ae60">May. 2025</b> — Two papers (on <i>Non-Maximum Suppression</i> and <i>Diffusion Model</i>) accepted to <b>NeurIPS</b>.</p>
-  <p><b style="color:#e67e22">Jan. 2025</b> — One paper on <i>High-order Contrastive Learning</i> accepted to <b>ICML</b>.</p>
+  <p><b style="color:#e67e22">Jan. 2024</b> — One paper on <i>multi-instance learning for WSI classification</i> accepted to <b>IEEE TMI</b>.</p>
+  <p><b style="color:#27ae60">May. 2024</b> — Two papers (on <i>Non-Maximum Suppression</i> and <i>Diffusion Model</i>) accepted to <b>NeurIPS</b>.</p>
+  <p><b style="color:#e67e22">Jan. 2024</b> — One paper on <i>High-order Contrastive Learning</i> accepted to <b>ICML</b>.</p>
 
   
 </div>
