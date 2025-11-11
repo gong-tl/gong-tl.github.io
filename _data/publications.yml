@@ -2,7 +2,7 @@ main:
 
 
   - title: "Accurate spatial quantification in computational pathology with multiple instance learning"
-    authors: Zeyu Gao, Anyu Mao, Yuxin Dong, Hannah Clayton, Jialun Wu, Jiashuai Liu, Chunbao Wang, Kai He, <strong>Tieliang Gong*</strong>, Chen Li, Mireia Chrispin-Ortuzar
+    authors: Zeyu Gao, Anyu Mao, Yuxin Dong, Hannah Clayton, Jialun Wu, Jiashuai Liu, Chunbao Wang, Kai He, <strong>Tieliang Gong*</strong>, <strong>Chen Li*</strong>, <strong>Mireia Chrispin-Ortuzar*</strong>
     conference_short: Nature Cancer
     conference: Nature Cancer, 2026.
     pdf: 
