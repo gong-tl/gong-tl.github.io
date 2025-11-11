@@ -1,5 +1,49 @@
 main:
 
+
+  - title: "Accurate spatial quantification in computational pathology with multiple instance learning"
+    authors: Zeyu Gao, Anyu Mao, Yuxin Dong, Hannah Clayton, Jialun Wu, Jiashuai Liu, Chunbao Wang, Kai He, <strong>Tieliang Gong*</strong>, Chen Li, Mireia Chrispin-Ortuzar
+    conference_short: Nature Cancer
+    conference: Nature Cancer, 2026.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/Nature25.png
+    notes:   
+
+
+  - title: "Towards the generalization of multi-view learning: An information-theoretical analysis"
+    authors: Wen Wen, <strong>Tieliang Gong*</strong>, Yuxin Dong, Shujian Yu, Bo Dong 
+    conference_short: IF 
+    conference: Information Fusion, 2026.
+    pdf: https://www.sciencedirect.com/science/article/pii/S1566253525008383
+    code: 
+    bibtex: 
+    image: ./assets/img/IF26.png
+    notes: 
+
+
+  - title: "Recovering Coherent Affective Patterns: Addressing Modality Missing in Multimodal Sentiment Analysis"
+    authors: Huiting Huang, <strong>Tieliang Gong*</strong>, Kai He, Wen Wen, Weizhan Zhang, Mengling Feng
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence, 2026.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/AAAI26_recover.png
+    notes: 
+
+  - title: "Beyond Sharpness: A Flatness Decomposition Framework for Efficient Continual Learning"
+    authors: Yanan Chen, <strong>Tieliang Gong*</strong>, Yunjiao Zhang, Wen Wen
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence, 2026.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/AAAI26_beyond.png
+    notes: 
+
+
   - title: "How Does Distribution Matching Help Domain Generalization: An Information-Theoretic Analysis"
     authors: Yuxin Dong, <strong>Tieliang Gong*</strong>, Hong Chen, Shuangyong Song, Weizhan Zhang, Chen Li
     conference_short: IEEE TIT
@@ -31,7 +75,8 @@ main:
     image: ./assets/img/ICML25_Info.png
     notes: 
 
-  - title: "Towards Generalization Bounds of GCNs for Adversarially Robust Node Classification"
+
+  - title: ""
     authors: Wen Wen, Han Li, Tieliang Gong, Hong Chen 
     conference_short: ICLR 
     conference: International Conference on Learning Representation, 2025.
