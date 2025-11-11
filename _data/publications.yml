@@ -76,7 +76,7 @@ main:
     notes: 
 
 
-  - title: ""
+  - title: "Towards Generalization Bounds of GCNs for Adversarially Robust Node Classification"
     authors: Wen Wen, Han Li, Tieliang Gong, Hong Chen 
     conference_short: ICLR 
     conference: International Conference on Learning Representation, 2025.
