@@ -6,7 +6,7 @@ main:
     conference_short: Nature Cancer
     conference: Nature Cancer, 2026.
     pdf: https://www.nature.com/articles/s43018-025-01060-8
-    code: 
+    code: https://github.com/ZeyuGaoAi/SMMILe
     bibtex: 
     image: ./assets/img/Nature25.png
     notes:   
@@ -28,7 +28,7 @@ main:
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence, 2026.
     pdf: 
-    code: 
+    code: https://github.com/Taylor-HHT/RECAP-MSA
     bibtex: 
     image: ./assets/img/AAAI26_recover.png
     notes: 
@@ -65,12 +65,12 @@ main:
     image: ./assets/img/ICML25_bjsd.png
     notes: 
 
-  - title: "InfoSAM: Fine-Tuning the Segment Anything Model from an Information-Theoretic Perspective "
+  - title: "InfoSAM: Fine-Tuning the Segment Anything Model from an Information-Theoretic Perspective"
     authors: Yuanhong Zhang, Muyao Yuan, Weizhan Zhang, Tieliang Gong, Wen Wen, Jiangyong Ying, Weijie Shi 
     conference_short: ICML 
     conference: International Conference on Machine Learning, 2025.
     pdf: https://openreview.net/pdf?id=VpBBw1bL47
-    code: 
+    code: https://muyaoyuan.github.io/InfoSAM_Page/
     bibtex: 
     image: ./assets/img/ICML25_Info.png
     notes: 
@@ -86,7 +86,7 @@ main:
     image: ./assets/img/ICLR25.png
     notes: 
 
-  - title: "Leveraging differentiable NAS and abstract genetic algorithms for optimizing on-mobile VSR performance "
+  - title: "Leveraging differentiable NAS and abstract genetic algorithms for optimizing on-mobile VSR performance"
     authors: Xuncheng Liu, Weizhan Zhang, Tieliang Gong, Caixia Yan, Rui Li 
     conference_short: ML 
     conference: Machine Learning, 2025.
