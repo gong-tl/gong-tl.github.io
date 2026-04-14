@@ -19,6 +19,7 @@
 <ul style="margin:0 0 20px;">
    <li><a ><autocolor> Journal of Machine Learning Research </autocolor></a></li> 
    <li><a ><autocolor>IEEE Transactions on Information Theory </autocolor></a></li>
+   <li><a ><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence </autocolor></a></li>
     <li><a ><autocolor>IEEE Transactions on Signal Processing </autocolor></a></li>
     <li><a ><autocolor>IEEE Transactions on Neural Networks and Learning Systems </autocolor></a></li>
       <li><a ><autocolor>IEEE Transactions on Cybernetics </autocolor></a></li>
