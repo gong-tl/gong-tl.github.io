@@ -110,7 +110,7 @@ I am looking for highly motivated and self-driven students who are interested in
 ---
 
 <div style="border-left: 3px solid #4CAF50; padding-left: 12px; margin-top: 10px;">
- <p><b style="color:#3498db">May. 2026</b> — One paper on </i>Continual MoE</i> accepted by </b>IEEE TMM</b>.</p>
+ <p><b style="color:#9b59b6">May. 2026</b> — One paper on <i>Continual MoE</i> accepted by <b>IEEE TMM</b>.</p>
   <p><b style="color:#3498db">Apr. 2026</b> — I will be hosting a session on FAIC.</p>
   <p><b style="color:#3498db">Nov. 2025</b> — Two papers on on <i>Continual Learning</i> and <i>Multimodal Sentiment Analysis</i> accepted to <b>AAAI</b>.</p>
   <p><b style="color:#e74c3c">Sep. 2025</b> — One paper on <i>Multi-Instance Learning for Computational Pathology</i> accepted to <b>Nature Cancer</b>; one on <i>IT Generalization for Multiview Learning</i> accepted to <b>Information Fusion</b>.</p>  
