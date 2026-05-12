@@ -4,7 +4,7 @@ layout: homepage
 
 ##  About Me
 ---
-I am an Associate Professor (Tenure track) at the School of Computer Science and Technology at Xi'an Jiaotong University. My students and I are part of the [Shaanxi Key Lab of BDKE](https://bdkelab.xjtu.edu.cn). Our research is funded by the National Key Research Development Program of China and the National Natural Science Foundation. 
+I am an Associate Professor (Tenure) at the School of Computer Science and Technology at Xi'an Jiaotong University. My students and I are part of the [Shaanxi Key Lab of BDKE](https://bdkelab.xjtu.edu.cn). Our research is funded by the National Key Research Development Program of China and the National Natural Science Foundation. 
  
 I have previously held positions as a postdoctoral researcher at the University of Ottawa and as a visiting scholar at the University of Michigan, Ann Arbor. I obtained my Ph.D in Applied Mathematics from Xi'an Jiaotong University, where I was fortunate to be advised by Prof. Zongben Xu, an esteemed  Academician of the Chinese Academy of Sciences.
 
@@ -19,7 +19,7 @@ My research focuses on statistical learning theory and information theory, aimin
 I am looking for highly motivated and self-driven students who are interested in
 
 - Robust and Explainable Machine Learning: with emphasis on scalable data selection and compression methods (e.g., coreset construction, subsampling strategies, randomized sketching), and their role in enhancing reliability and     interpretability of modern ML systems.
-- Generalization of DNNs, aiming to demystify the black-box nature of deep learning via rigorous theoretical tools, including stability-based analysis, neural tangent kernels (NTK), optimization dynamics of SGD/SGLD, and information-theoretic perspectives. 
+- Generalization of DNNs, aiming to demystify the black-box nature of deep learning via rigorous theoretical tools, including stability-based analysis, neural tangent kernels (NTK), optimization dynamics, and information-theoretic perspectives. 
 - Transfer/Continual learning, focusing on fundamental challenges of knowledge transfer across tasks and domains, out-of-distribution (OOD) generalization, and biologically/plausibly brain-inspired approaches for lifelong learning.
 - AI for Medical, with a particular focus on computational pathology, multi-modal medical data integration, and trustworthy medical AI through explainability and uncertainty quantification.
 
@@ -110,6 +110,7 @@ I am looking for highly motivated and self-driven students who are interested in
 ---
 
 <div style="border-left: 3px solid #4CAF50; padding-left: 12px; margin-top: 10px;">
+ <p><b style="color:#3498db">May. 2026</b> — One paper on (</i>Continual MoE</i>) accepted by </b>IEEE TMM</b>.</p>
   <p><b style="color:#3498db">Apr. 2026</b> — I will be hosting a session on FAIC.</p>
   <p><b style="color:#3498db">Nov. 2025</b> — Two papers on (on <i>Continual Learning</i> and <i>Multimodal Sentiment Analysis</i>) accepted to <b>AAAI</b>.</p>
   <p><b style="color:#e74c3c">Sep. 2025</b> — One paper on <i>Multi-Instance Learning for Computational Pathology</i> accepted to <b>Nature Cancer</b>; one on <i>IT Generalization for Multiview Learning</i> accepted to <b>Information Fusion</b>.</p>  
